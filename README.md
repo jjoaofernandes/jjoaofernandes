@@ -23,7 +23,7 @@ Estudante de **Analise e Desenvolvimento de Sistemas** na **UNICID** (2º semest
              
 </div>
   <hr>
-<a href="https://www.linkedin.com/in/raphael-chiqueti-bezerra-36ba3a252" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joao-fernandes-ofc01/overlay/background-photo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <hr>
 
