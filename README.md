@@ -1,5 +1,5 @@
 <<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=500&color=00FF41&center=false&vCenter=false&width=600&lines=JOÃO+VICTOR;%3E_FRONT-END+DEVELOPER;UI+%2F+UX+SPECIALIST;CORE+SYSTEMS+READY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=500&color=00FF41&center=false&vCenter=false&width=600&lines=JOÃO+FERNANDES;%3E_FRONT-END+DEVELOPER;UI+%2F+UX+SPECIALIST;CORE+SYSTEMS+READY" alt="Typing SVG" />
 </div>
 Estudante de **Analise e Desenvolvimento de Sistemas** na **UNICID** (2º semestre) e entusiasta do desenvolvimento **Front-end**. Gosto de transformar ideias em interfaces interativas e funcionais.
 
@@ -23,7 +23,7 @@ Estudante de **Analise e Desenvolvimento de Sistemas** na **UNICID** (2º semest
              
 </div>
   <hr>
-<a href="https://www.linkedin.com/in/joao-fernandes-ofc01/overlay/background-photo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joao-fernandes-ofc01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <hr>
 
